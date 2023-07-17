@@ -64,6 +64,7 @@ header{
 }
 .banner-img{
        background-image: url('./images/Circle\ design.svg');
+       background-position: center;
 }
 .sponsers{
        display: flex;
